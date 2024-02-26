@@ -19,6 +19,7 @@ body{
     background-size: cover;
     font-family: 'Dancing Script', cursive;
 }
+
 p{
     padding-top: 20px;
     color: black;
@@ -36,4 +37,7 @@ p{
 }
 .nav-link{
     color: black;
+}
+.slide{
+    border-radius: 50%;
 }
